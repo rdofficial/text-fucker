@@ -1,0 +1,7 @@
+# The ignore file list for the text-fucker
+#
+# 1. Ignore all the test directories + cache directories
+#
+
+tests/
+python-scripts/
